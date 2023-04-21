@@ -1,0 +1,44 @@
+header {
+    background-color: #ffb6c1;
+    padding: 20px;
+  }
+  h1 {
+    margin: 0;
+    font-size: 36px;
+  }
+  nav {
+    display: inline-block;
+    margin-top: 10px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  li:last-child {
+    margin-right: 0;
+  }
+  
+  section {
+    margin-top: 50px;
+  }
+  h2 {
+    font-size: 28px;
+  }
+  p {
+    font-size: 20px;
+  }
+  a:link{
+    color:blueviolet;
+  }
+  a:hover{
+    color:blue;  
+  }
+body{
+    background-image: url(https://imgs.search.brave.com/a9nE5pawYacqapzgL1mmRU5AGJ5MIUohqk0XPQfjCDY/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9oYW5k/bGV0aGVoZWF0LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wMi9CQUtFUlkt/U1RZTEUtQ0hPQ09M/QVRFLUNISVAtQ09P/S0lFUy05LmpwZw);
+    background-size: cover;
+}
